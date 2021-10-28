@@ -2,7 +2,7 @@
 
 ## Description 
 
-This project showcases some if the projects I created and collaborated on during my time as a george Washington Fullstack Coding Bootcamp. 
+This project showcases some if the projects I created and collaborated on during my time as a George Washington Fullstack Coding Bootcamp. 
 
 
 ## Languages
